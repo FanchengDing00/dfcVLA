@@ -1,0 +1,18 @@
+[project]
+name = "dfcvla"
+version = "0.0.1"
+requires-python = ">=3.11"
+
+# ==============================
+# 🔥 未来你需要依赖时往这里添加
+# 示例（暂时留空，不影响环境）
+# dependencies = [
+#     "timm>=0.9",
+#     "opencv-python",
+# ]
+# ==============================
+dependencies = []
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
